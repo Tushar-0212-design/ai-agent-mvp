@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.log
+*.sqlite3
+.env
+*.db
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Mac / Linux
+.DS_Store
+
+# Virtual environments
+venv/
+env/
